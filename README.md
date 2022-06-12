@@ -27,3 +27,11 @@ The user-app interaction is done using the following:
 These user transformations are also confined within the boundaries of the sphere.
 
 Upon deslection of the object, the object will resume its random movement with the sphere.
+
+Code Explanation:
+https://youtu.be/f0SG4mJ86wU
+
+Demo:
+https://youtu.be/iQZ8sOAWrtc
+
+** The only difference between Source.cpp and Source1.cpp is the construction of the green sphere inside the main sphere. In one of the files, the sphere is made up of smaller constituent triangles and in the other, the sphere is solid surface.
